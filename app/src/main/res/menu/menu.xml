@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nvg_map"
+        android:icon="@drawable/ic_nvg_map_unclick"
+        android:title=""
+        android:enabled="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/nvg_main"
+        android:icon="@drawable/ic_nvg_main_unclick"
+        android:title=""
+        android:enabled="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/nvg_board"
+        android:icon="@drawable/ic_nvg_board_unclick"
+        android:title=""
+        android:enabled="true"
+        app:showAsAction="always" />
+
+</menu>
+
